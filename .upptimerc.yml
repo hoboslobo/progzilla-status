@@ -8,7 +8,7 @@ sites:
 
 
 status-website:
-  baseUrl: /hoboslobo # where "repo" is your repository name
+  baseUrl: /progzilla-status # where "repo" is your repository name
   name: Your Status Website
 
 # Upptime also supports notifications, assigning issues, and more
