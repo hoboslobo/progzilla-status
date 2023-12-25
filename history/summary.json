@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/progzilla.com.ico",
     "slug": "progzilla",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 763,
-    "timeDay": 759,
-    "timeWeek": 749,
-    "timeMonth": 761,
-    "timeYear": 763,
-    "dailyMinutesDown": {
-      "2023-12-24": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 766,
+    "timeDay": 829,
+    "timeWeek": 771,
+    "timeMonth": 759,
+    "timeYear": 766,
+    "dailyMinutesDown": {}
   }
 ]
